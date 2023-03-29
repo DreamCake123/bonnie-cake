@@ -1,0 +1,21 @@
+.topnav{
+    background-color: rgb(255, 182, 125);
+    padding: 30px;
+}
+.topnav .inner{
+    background-color: rgb(255, 255, 100);
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+}
+.topnav .inner a{
+    font-size: 20px;
+    padding: 10px;
+
+    color: rgb(30, 30, 30);
+    text-decoration: none;
+    text-align: center;
+}
+.topnav .inner a:hover{
+    background-color: beige;
+}
